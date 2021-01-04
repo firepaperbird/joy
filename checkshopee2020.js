@@ -69,3 +69,5 @@ function moneyFormat(number, fixed = 0) {
   }
   return number;
 }
+
+getStatistics()
